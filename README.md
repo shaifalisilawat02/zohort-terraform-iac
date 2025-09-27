@@ -13,7 +13,6 @@ This Terraform configuration provisions an **AWS S3 bucket** with the following 
 
 ## Steps to Deploy
 
-Clone the repo:
 
 ```bash
 git clone https://github.com/shaifalisilawat02/zohort-terraform-iac.git
